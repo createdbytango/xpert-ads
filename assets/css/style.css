@@ -342,7 +342,7 @@ html::-webkit-scrollbar-corner {
   border-radius: 10px; }
 
 body {
-  font-family: "Inter", sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif;
   text-decoration: none;
   font-size: 0.9em;
   overflow-x: hidden;
@@ -467,7 +467,7 @@ img {
   max-height: 100%; }
 
 p {
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.7;
   margin: 0; }
 
@@ -3053,7 +3053,7 @@ header.style-5 {
           left: 102%;
           bottom: -5px; }
     header.style-5 .info p {
-      font-size: 15px;
+      font-size: 18px;
       color: #666;
       margin-top: 30px; }
     header.style-5 .info .form {
@@ -4125,7 +4125,7 @@ header.style-15 {
 .about.style-5 .content {
   padding: 50px 0; }
   .about.style-5 .content p {
-    font-size: 12.5px;
+    font-size: 16px;
     color: #777;
     line-height: 2; }
   .about.style-5 .content .line-links {
